@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumar+One+Outline&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* font-family: "Kumar One Outline", cursive; */
+
+body section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background: transparent;
+  cursor: pointer;
+}
+
+section.content h1 {
+  font-size: 5rem;
+  font-family: "Kumar One Outline", cursive;
+  line-height: 80px;
+}
