@@ -25,6 +25,10 @@ Live link of Hidden Search that I created with React JS 👇
 <br>
 *** https://hidsearch.netlify.app/ ***
 <br>
+Live link of Accordion that I created with React JS 👇
+<br>
+*** https://acc-ordions.netlify.app/ ***
+<br>
 Live link of Meal Api that I created with React JS 👇
 <br>
 *** https://flavorfinder.netlify.app/ ***
