@@ -1,7 +1,7 @@
 # React-Projects
 This Repository have React beginners level projects which includes To-do list, Counter and more.
 <br>
-Live link of Calculator app that I created with React JS 👇
+Live link of Count app that I created with React JS 👇
 *** https://count-on.netlify.app/ ***
 <br>
 Live link of Calculator app that I created with React JS 👇
