@@ -7,5 +7,8 @@ Live link of Count app that I created with React JS 👇
 Live link of Calculator app that I created with React JS 👇
 *** https://reactcalcy.netlify.app/ ***
 <br>
+Live link of Count app that I created with React JS 👇
+*** https://flavorfinder.netlify.app/ ***
+<br>
 Shoesfilter app created so that we can filter shoes with category, price and color, <br> Live link of same is here  👇
 *** https://shoesfilter.netlify.app/ ***
