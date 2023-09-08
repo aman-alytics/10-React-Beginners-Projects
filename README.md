@@ -13,6 +13,10 @@ Live link of ToggleBtn that I created with React JS 👇
 <br>
 *** https://toggbtn.netlify.app/ ***
 <br>
+Live link of Testimonials that I created with React JS 👇
+<br>
+*** https://test-imonials.netlify.app/ ***
+<br>
 Live link of ToDo app that I created with React JS 👇
 <br>
 *** https://two-doo.netlify.app/ ***
