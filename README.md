@@ -1,6 +1,6 @@
 # React-Projects
 This Repository have React beginners level projects which includes To-do list, Counter and more.
-<br>
+<br><br>
 Count-on - A simple React counter app that lets you increment and decrement a number with ease.
 <br>
 Live link of Count app that I created with React JS 👇
@@ -55,6 +55,8 @@ Live link of Fill Form that I created with React JS 👇
 <br>
 *** https://fill-form.netlify.app/ ***
 <br>
-Shoesfilter app created so that we can filter shoes with category, price and color, <br> Live link of same is here  👇
+Shoesfilter - Create a React application that allows users to filter and explore a collection of shoes based on various criteria, such as size, color, and style. This project focuses on implementing dynamic filtering and sorting functionality for an enjoyable user experience.
+<br> 
+Live link of same is here  👇
 <br>
 *** https://shoesfilter.netlify.app/ ***
